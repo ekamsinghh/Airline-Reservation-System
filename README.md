@@ -1,4 +1,4 @@
-# ✈️ Airline Reservation System – Microservices Architecture
+# ✈️ Airline System Overview
 
 This project is a backend system for an airline reservation platform, designed using a **microservices architecture**. It handles flight search, ticket booking, user authentication, notifications, and routing through a centralized API Gateway.
 
